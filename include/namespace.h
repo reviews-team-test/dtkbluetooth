@@ -2,9 +2,9 @@
 //
 // SPDX-License-Identifier: LGPL-3.0-or-later
 
-#define DDEMO_NAMESPACE Dtk::Demo
+#define DBLUETOOTH_NAMESPACE Dtk::Bluetooth
 
-#define DDEMO_USE_NAMESPACE using namespace DDEMO_NAMESPACE;
+#define DBLUETOOTH_USE_NAMESPACE using namespace DBLUETOOTH_NAMESPACE;
 
-#define DDEMO_BEGIN_NAMESPACE namespace Dtk { namespace Demo {
-#define DDEMO_END_NAMESPACE }}
+#define DBLUETOOTH_BEGIN_NAMESPACE namespace Dtk { namespace Bluetooth {
+#define DBLUETOOTH_END_NAMESPACE }}
